@@ -14,7 +14,7 @@
   <h3 align="center">A 3D Dev Swag Website</h3>
 
    <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
+     Build this project step by step with our detailed
     </div>
 </div>
 
@@ -97,7 +97,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/project_threejs_ai.git
+git clone https://github.com/parth799/shope-using-three-js.git
 cd project_threejs_ai
 ```
 
